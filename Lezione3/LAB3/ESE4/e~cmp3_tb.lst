@@ -1,0 +1,14 @@
+>/usr/local/oss-cad-suite/lib/ghdl/ieee/v93/
+../../src/ieee/v93/std_logic_1164.vhdl
+>/usr/local/oss-cad-suite/lib/ghdl/ieee/v93/
+../../src/ieee/v93/std_logic_1164-body.vhdl
+>/usr/local/oss-cad-suite/lib/ghdl/ieee/v93/
+../../src/ieee/v93/numeric_std.vhdl
+>/usr/local/oss-cad-suite/lib/ghdl/ieee/v93/
+../../src/ieee/v93/numeric_std-body.vhdl
+>
+cmp3_tb.vhd
+>
+cmp3.vhdl
+>
+cmp1.vhdl
